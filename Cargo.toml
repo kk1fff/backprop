@@ -1,0 +1,6 @@
+[package]
+name = "backprop"
+version = "0.1.0"
+authors = ["Chih-Kai (Patrick) Wang <kk1fff@ckwang.info>"]
+
+[dependencies]
